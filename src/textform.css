@@ -1,0 +1,10 @@
+#sdiv{
+    transition: all 1s ease-in 0.5s;
+    margin-top: 20px;
+}
+
+#alert{
+    visibility: hidden;
+}
+
+
